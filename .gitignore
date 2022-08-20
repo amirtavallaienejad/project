@@ -1,2 +1,3 @@
 nodemodules/
 *.txt
+!adf.txt
